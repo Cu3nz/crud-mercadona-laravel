@@ -1,0 +1,1 @@
+<p class="text-red-600 italic text-xl">****{{$slot}}</p>
